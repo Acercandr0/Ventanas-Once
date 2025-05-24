@@ -1,7 +1,5 @@
 # My Windhawk Configuration
 
-## 🛠️ Mods Included  
-
 ### Customize Windows notifications placement  
 Modify where notifications appear on your screen for a cleaner experience.  
 ```json
