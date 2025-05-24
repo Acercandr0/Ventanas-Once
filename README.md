@@ -32,80 +32,9 @@
 {"theme":"","controlStyles[0].target":"Grid#ControlCenterRegion","controlStyles[0].styles[0]":"Margin=0,0,0,460","controlStyles[1].target":"Grid#NotificationCenterGrid","controlStyles[1].styles[0]":"VerticalAlignment=Stretch","controlStyles[2].target":"Grid#CalendarCenterGrid","controlStyles[2].styles[0]":"Margin=0,12,0,15","controlStyles[3].target":"Windows.UI.Xaml.Controls.Grid#MediaTransportControlsRegion","controlStyles[3].styles[0]":"Margin=0,12,0,-960","controlStyles[0].styles[1]":"Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.4\" />"}
 ```
 
-### Windows 11 Start Menu Styler  
+### Windows 11 Start Menu Styler
 ```json
-{
-  "theme": "",
-  "controlStyles": [
-    {
-      "target": "Border#AcrylicBorder",
-      "styles": [
-        "Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.4\" />"
-      ]
-    },
-    {
-      "target": "Windows.UI.Xaml.Controls.Grid#RootPanel",
-      "styles": [
-        "MaxHeight=490",
-        "Margin=0,-235,0,0"
-      ]
-    },
-    {
-      "target": "Windows.UI.Xaml.Controls.Grid#TopLevelSuggestionsListHeader",
-      "styles": ["Visibility=Collapsed"]
-    },
-    {
-      "target": "Windows.UI.Xaml.Controls.Grid#NoTopLevelSuggestionsText",
-      "styles": ["Visibility=Collapsed"]
-    },
-    {
-      "target": "Windows.UI.Xaml.Controls.Grid#TopLevelSuggestionsContainer",
-      "styles": ["Visibility=Collapsed"]
-    },
-    {
-      "target": "Windows.UI.Xaml.Controls.Grid#ShowMoreSuggestions",
-      "styles": ["Visibility=Collapsed"]
-    },
-    {
-      "target": "Windows.UI.Xaml.Controls.Grid#UndockedRoot",
-      "styles": ["Margin=0,0,0,0"]
-    },
-    {
-      "target": "Windows.UI.Xaml.Controls.TextBlock#PinnedListHeaderText",
-      "styles": ["Visibility=Collapsed"]
-    },
-    {
-      "target": "StartDocked.PowerOptionsView",
-      "styles": ["Margin=0,220,0,0"]
-    },
-    {
-      "target": "StartDocked.UserTileView#UserTile",
-      "styles": ["Visibility=Collapsed"]
-    },
-    {
-      "target": "StartDocked.AppListView#NavigationPanePlacesListView",
-      "styles": ["Margin=0,220,0,0"]
-    },
-    {
-      "target": "Windows.UI.Xaml.Controls.Border#BorderUnderline",
-      "styles": ["Visibility=Collapsed"]
-    },
-    {
-      "target": "Windows.UI.Xaml.Controls.Grid#MainContent",
-      "styles": ["Margin=0,0,0,0"]
-    },
-    {
-      "target": "Windows.UI.Xaml.Controls.Border#AcrylicOverlay",
-      "styles": ["Visibility=Collapsed"]
-    },
-    {
-      "target": "Windows.UI.Xaml.Controls.Border#BorderElement",
-      "styles": [
-        "Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0\" />"
-      ]
-    }
-  ]
-}
+{"theme":"","controlStyles[0].target":"Border#AcrylicBorder","controlStyles[0].styles[0]":"Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.4\" />","controlStyles[1].target":"Windows.UI.Xaml.Controls.Grid#RootPanel","controlStyles[1].styles[0]":"MaxHeight=490","controlStyles[2].target":"Windows.UI.Xaml.Controls.Grid#TopLevelSuggestionsListHeader","controlStyles[3].target":"Windows.UI.Xaml.Controls.Grid#NoTopLevelSuggestionsText","controlStyles[3].styles[0]":"Visibility=Collapsed","controlStyles[4].target":"Windows.UI.Xaml.Controls.Grid#TopLevelSuggestionsContainer","controlStyles[5].target":"Windows.UI.Xaml.Controls.Grid#ShowMoreSuggestions","controlStyles[5].styles[0]":"Visibility=Collapsed","controlStyles[4].styles[0]":"Visibility=Collapsed","controlStyles[2].styles[0]":"Visibility=Collapsed","controlStyles[6].target":"Windows.UI.Xaml.Controls.Grid#UndockedRoot","controlStyles[6].styles[0]":"Margin=0,0,0,0","controlStyles[7].target":"Windows.UI.Xaml.Controls.TextBlock#PinnedListHeaderText","controlStyles[7].styles[0]":"Visibility=Collapsed","webContentCustomJs":"","resourceVariables[0].variableKey":"","resourceVariables[0].value":"","controlStyles[1].styles[1]":"Margin=0,-235,0,0","controlStyles[8].target":"StartDocked.PowerOptionsView","controlStyles[8].styles[0]":"Margin=0,220,0,0","controlStyles[9].target":"StartDocked.UserTileView#UserTile","controlStyles[9].styles[0]":"Visibility=Collapsed","controlStyles[10].target":"StartDocked.AppListView#NavigationPanePlacesListView","controlStyles[10].styles[0]":"Margin=0,220,0,0","controlStyles[11].target":"Windows.UI.Xaml.Controls.Border#BorderUnderline","controlStyles[11].styles[0]":"Visibility=Collapsed","controlStyles[0].styles[1]":"BorderThickness=0,0,0,0","controlStyles[12].target":"Windows.UI.Xaml.Controls.Grid#MainContent","controlStyles[12].styles[0]":"Margin=0,0,0,0","controlStyles[13].target":"Windows.UI.Xaml.Controls.Border#AcrylicOverlay","controlStyles[13].styles[0]":"Visibility=Collapsed","controlStyles[14].target":"Windows.UI.Xaml.Controls.Border#BorderElement","controlStyles[14].styles[0]":"Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0\" />"}
 ```
 
 ### Windows 11 Taskbar Styler  
