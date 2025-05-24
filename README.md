@@ -18,6 +18,7 @@
 ```json
 {"ShowSeconds":0,"TimeFormat":"h':'mm tt","DateFormat":"d 'de' MMMM","WeekdayFormat":"dddd","WeekdayFormatCustom":"","TopLine":"%date%  %time%","BottomLine":"","MiddleLine":"","TooltipLine":"","Width":180,"Height":60,"MaxWidth":0,"TextSpacing":-1,"oldTaskbarOnWin11":0}
 ```
+**Note:** Change date format to english or leave it in spanish, it's your call.
 
 ### Taskbar Height and Icon Size  
 ```json
