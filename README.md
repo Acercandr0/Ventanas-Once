@@ -1,11 +1,11 @@
-## Preview
+## 📷 Preview
 
 ![Preview 1](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview1.png)  
 ![Preview 2](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview2.png)  
 ![Preview 3](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview3.png)  
 
-## Video Preview  
-[![Preview](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview1.png)](https://streamable.com/mehn92)
+## 🎥 Video Preview  
+[Watch the video on Streamable](https://streamable.com/mehn92)
 
 # My Windhawk Configuration
 
