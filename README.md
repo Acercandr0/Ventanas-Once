@@ -1,3 +1,7 @@
+## 🎥 Preview  
+Check out how these look in action:  
+[![Preview](https://streamable.com/img/mehn92.jpg)](https://streamable.com/mehn92)
+
 # My Windhawk Configuration
 
 ### Customize Windows notifications placement  
@@ -41,3 +45,4 @@ Modify taskbar behavior, icon sizes, and refine aesthetic details.
 ```json
 {"theme":"","styleConstants[0]":"","resourceVariables[0].variableKey":"","resourceVariables[0].value":"","controlStyles[0].target":"Taskbar.Beacon#BeaconControl","controlStyles[0].styles[0]":"Transform3D:=<CompositeTransform3D ScaleX=\"1.2\" ScaleY=\"1.2\" ScaleZ=\"1.2\" />","controlStyles[0].styles[1]":"Margin=0,-10,-6,0","controlStyles[1].target":"Taskbar.TaskListLabeledButtonPanel#IconPanel","controlStyles[1].styles[0]":"Padding=0,0,0,0","controlStyles[2].target":"Windows.UI.Xaml.Controls.Image#Icon","controlStyles[2].styles[0]":"Margin=5,0,0,0","controlStyles[3].target":"Windows.UI.Xaml.Shapes.Rectangle#RunningIndicator","controlStyles[3].styles[0]":"Margin=5,0,0,0","controlStyles[3].styles[1]":"Width=10","controlStyles[3].styles[2]":"Height=2"}
 ```
+**Note:** The icons used for the Start Button are located in `C:\Customization\Icons\Start Button\`, but you can download them from the main branch or use your own custom path and buttons. There should be three versions: **Normal**, **Hover**, and **Pressed**.
