@@ -1,5 +1,10 @@
-## 🎥 Preview  
-Check out how these Windhawk customizations look in action:  
+## Preview
+
+![Preview 1](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview1.png)  
+![Preview 2](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview2.png)  
+![Preview 3](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview3.png)  
+
+Check out how these look in video:  
 [Watch the video on Streamable](https://streamable.com/mehn92)
 
 # My Windhawk Configuration
