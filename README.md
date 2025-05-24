@@ -1,6 +1,6 @@
 ## 🎥 Preview  
-Check out how these look in action:  
-[![Preview](https://streamable.com/img/mehn92.jpg)](https://streamable.com/mehn92)
+Check out how these Windhawk customizations look in action:  
+[Watch the video on Streamable](https://streamable.com/mehn92)
 
 # My Windhawk Configuration
 
