@@ -4,10 +4,7 @@
 ![Preview 2](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview2.png)  
 ![Preview 3](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview3.png)  
 
-## 🎥 Video Preview  
-[Watch the video on Streamable](https://streamable.com/mehn92)
-
-# Windhawk mods and configuration:
+# Mods and configuration:
 
 ### Customize Windows notifications placement  
 ```json
