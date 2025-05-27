@@ -24,7 +24,7 @@
 
 ### Windows 11 Notification Center Styler  
 ```json
-{"theme":"","controlStyles[0].target":"Grid#ControlCenterRegion","controlStyles[0].styles[0]":"Margin=0,0,0,460","controlStyles[1].target":"Grid#NotificationCenterGrid","controlStyles[1].styles[0]":"VerticalAlignment=Stretch","controlStyles[2].target":"Grid#CalendarCenterGrid","controlStyles[2].styles[0]":"Margin=0,12,0,15","controlStyles[3].target":"Windows.UI.Xaml.Controls.Grid#MediaTransportControlsRegion","controlStyles[3].styles[0]":"Margin=0,12,0,-960","controlStyles[0].styles[1]":"Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.4\" />"}
+{"theme":"","controlStyles[0].target":"Grid#ControlCenterRegion","controlStyles[0].styles[0]":"Margin=0,0,0,460","resourceVariables[0].variableKey":"","resourceVariables[0].value":"","controlStyles[1].target":"Grid#NotificationCenterGrid","controlStyles[2].target":"Grid#CalendarCenterGrid","controlStyles[2].styles[0]":"Margin=0,12,0,15","controlStyles[3].target":"Windows.UI.Xaml.Controls.Grid#MediaTransportControlsRegion","controlStyles[3].styles[0]":"Margin=0,12,0,-960","controlStyles[0].styles[1]":"Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.4\" />","controlStyles[1].styles[0]":"Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.4\" />","controlStyles[2].styles[1]":"Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.4\" />","controlStyles[3].styles[1]":"Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.4\" />","controlStyles[0].styles[2]":"BorderThickness=0,0,0,0","controlStyles[1].styles[1]":"BorderThickness=0,0,0,0","controlStyles[2].styles[2]":"BorderThickness=0,0,0,0","controlStyles[3].styles[2]":"BorderThickness=0,0,0,0"}
 ```
 
 ### Windows 11 Start Menu Styler
