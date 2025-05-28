@@ -176,6 +176,9 @@
   "controlStyles[14].target": "Taskbar.Badge#BadgeControl",
   "controlStyles[14].styles[0]": "Transform3D:=<CompositeTransform3D ScaleX=\"0.6\" ScaleY=\"0.6\" ScaleZ=\"0.6\" />",
   "controlStyles[14].styles[1]": "Margin=10,1,0,0"
+
+  "controlStyles[15].target": "Microsoft.UI.Xaml.Controls.ProgressBar#ProgressIndicator",
+  "controlStyles[15].styles[0]": "Margin=-10,0,0,0"
 }
 ```
 
