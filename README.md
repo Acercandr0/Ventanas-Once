@@ -125,8 +125,9 @@
 
   "controlStyles[2].target": "Windows.UI.Xaml.Shapes.Rectangle#RunningIndicator",
   "controlStyles[2].styles[0]": "Margin=-10,0,0,0",
-  "controlStyles[2].styles[1]": "Width=12",
-  "controlStyles[2].styles[2]": "Height=2",
+  "controlStyles[2].styles[1]": "MaxWidth=30",
+  "controlStyles[2].styles[2]": "MinWidth=10",
+  "controlStyles[2].styles[3]": "Height=2",
 
   "controlStyles[3].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel@CommonStates > Border#BackgroundElement",
   "controlStyles[3].styles[0]": "Background@InactiveNormal:=<ImageBrush Stretch=\"Uniform\" ImageSource=\"C:\\Customization\\Icons\\Start Button\\Normal.png\" />",
