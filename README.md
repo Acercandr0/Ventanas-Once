@@ -1,8 +1,9 @@
 ## 📷 Preview
 
-![Preview 1](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview1.png)  
-![Preview 2](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview2.png)  
-![Preview 3](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview3.png)  
+![Preview 1](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview1.png)
+![Preview 2](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview2.png)
+![Preview 3](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview3.png)
+![Preview 4](https://github.com/Acercandr0/My-Windhawk-Configuration/blob/main/Preview3.png)
 
 # Mods and configuration:
 
