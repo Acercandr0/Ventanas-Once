@@ -183,9 +183,9 @@
 }
 ```
 
+**⚠️ Note:** The icons used for the Start Button are stored in `C:\Customization\Icons\Start Button\`. You can download them from the main branch and place them in the same directory, or use your own custom path and button designs by updating the settings accordingly. There should be three versions: Normal, Hover, and Pressed.
+
 ### Taskbar Tray Icon Spacing
 ```json
 {"notificationIconWidth":25,"overflowIconWidth":30,"overflowIconsPerRow":5}
 ```
-
-**⚠️ Note:** The icons used for the Start Button are stored in `C:\Customization\Icons\Start Button\`. You can download them from the main branch and place them in the same directory, or use your own custom path and button designs by updating the settings accordingly. There should be three versions: Normal, Hover, and Pressed.
