@@ -139,6 +139,7 @@
   "controlStyles[3].styles[6]": "Background@ActivePressed:=<ImageBrush Stretch=\"Uniform\" ImageSource=\"C:\\Customization\\Icons\\Start Button\\Pressed.png\" />",
   "controlStyles[3].styles[7]": "MaxWidth=15",
   "controlStyles[3].styles[8]": "MaxHeight=15",
+  "controlStyles[3].styles[9]": "CornerRadius=0",
 
   "controlStyles[4].target": "Taskbar.ExperienceToggleButton#LaunchListButton[AutomationProperties.AutomationId=StartButton] > Taskbar.TaskListButtonPanel > Microsoft.UI.Xaml.Controls.AnimatedVisualPlayer#Icon",
   "controlStyles[4].styles[0]": "Visibility=Collapsed",
