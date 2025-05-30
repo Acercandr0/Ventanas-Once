@@ -1,4 +1,4 @@
-# Mods and configuration:
+# Ventanas Once 🪟🍹
 
 ### Customize Windows notifications placement  
 ```json
