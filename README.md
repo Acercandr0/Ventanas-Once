@@ -196,13 +196,12 @@
 
 ### CEF/Spotify Tweaks ⭐
 This mod will help with navigations buttons transparency with Spicetify themes!
-
-### Disable grouping on the taskbar
-As it says, prevents grouping.
-
 ```json
 {"showframe":0,"showframeonothers":0,"showmenu":1,"showcontrols":1,"transparentcontrols":1,"transparentrendering":0,"noforceddarkmode":0,"forceextensions":0,"ignoreminsize":0,"allowuntested":0,"playbackspeed":"1"}
 ```
+### Disable grouping on the taskbar
+As it says, prevents grouping.
+
 ## 📷 Preview
 
 ![Preview 1](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview1.png)
