@@ -49,7 +49,6 @@ Set the taskbar on top.
   "RuledPrograms[0].BorderColor.borderstyles_active": "0",
   "RuledPrograms[0].BorderColor.borderstyles_inactive": "0",
   "RuledPrograms[0].ThemeBackground": 1,
-  "RuledPrograms[0].TextAlphaBlend": 1,
   "RuledPrograms[0].ImmersiveDarkTitle": 1,
   "RuledPrograms[0].AccentBlurBehind": "B3000000",
   "RuledPrograms[0].CornerOption": "default",
