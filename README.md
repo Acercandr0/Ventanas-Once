@@ -48,6 +48,11 @@ Set the taskbar on top.
   "RuledPrograms[0].BorderColor.ColorBorder": 0,
   "RuledPrograms[0].BorderColor.borderstyles_active": "0",
   "RuledPrograms[0].BorderColor.borderstyles_inactive": "0",
+  "RuledPrograms[0].ThemeBackground": 1,
+  "RuledPrograms[0].TextAlphaBlend": 0,
+  "RuledPrograms[0].ImmersiveDarkTitle": 0,
+  "RuledPrograms[0].AccentBlurBehind": "B3000000",
+  "RuledPrograms[0].CornerOption": "default",
   "RuledPrograms[1].target": "qbittorrent.exe",
   "RuledPrograms[1].type": "acrylicblur",
   "RuledPrograms[1].ExtendFrame": 1,
@@ -65,12 +70,7 @@ Set the taskbar on top.
   "AccentBlurBehind": "",
   "ImmersiveDarkTitle": 0,
   "CornerOption": "default",
-  "RainbowSpeed": 1,
-  "RuledPrograms[0].ThemeBackground": 0,
-  "RuledPrograms[0].TextAlphaBlend": 0,
-  "RuledPrograms[0].ImmersiveDarkTitle": 0,
-  "RuledPrograms[0].AccentBlurBehind": "B3000000",
-  "RuledPrograms[0].CornerOption": "default"
+  "RainbowSpeed": 1
 }
 ```
 
