@@ -23,7 +23,7 @@ Set the taskbar on top.
 ### Translucent Windows
 ```json
 {
-  "ThemeBackground": 1,
+  "ThemeBackground": 0,
   "type": "none",
   "ExtendFrame": 0,
   "TitlebarColor.ColorTitlebar": 0,
@@ -60,8 +60,8 @@ Set the taskbar on top.
   "RuledPrograms[2].BorderColor.borderstyles_inactive": "0",
   "RuledPrograms[4].target": "mspaint.exe",
   "RuledPrograms[4].type": "acrylicsystem",
-  "TextAlphaBlend": 1,
-  "AccentBlurBehind": "0F000000",
+  "TextAlphaBlend": 0,
+  "AccentBlurBehind": "",
   "ImmersiveDarkTitle": 0,
   "CornerOption": "default",
   "RainbowSpeed": 1,
@@ -275,3 +275,5 @@ This mod will help with navigations buttons transparency with Spicetify themes!
 
 ### Disable grouping on the taskbar
 As it says, prevents grouping.
+
+[Wallpaper link](https://4kwallpapers.com/black-dark/ios-13-stock-ipados-dark-green-black-background-amoled-ipad-794.html)
