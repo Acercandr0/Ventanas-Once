@@ -51,13 +51,14 @@ Set the taskbar on top.
   "RuledPrograms[1].target": "qbittorrent.exe",
   "RuledPrograms[1].type": "acrylicblur",
   "RuledPrograms[1].ExtendFrame": 1,
+  "RuledPrograms[1].AccentBlurBehind": "B3000000",
   "RuledPrograms[2].target": "notepad.exe",
   "RuledPrograms[2].type": "acrylicsystem",
-  "RuledPrograms[3].target": "WebViewHost.exe",
-  "RuledPrograms[3].type": "none",
   "RuledPrograms[2].BorderColor.ColorBorder": 0,
   "RuledPrograms[2].BorderColor.borderstyles_active": "0",
   "RuledPrograms[2].BorderColor.borderstyles_inactive": "0",
+  "RuledPrograms[3].target": "WebViewHost.exe",
+  "RuledPrograms[3].type": "none",
   "RuledPrograms[4].target": "mspaint.exe",
   "RuledPrograms[4].type": "acrylicsystem",
   "TextAlphaBlend": 0,
@@ -65,12 +66,11 @@ Set the taskbar on top.
   "ImmersiveDarkTitle": 0,
   "CornerOption": "default",
   "RainbowSpeed": 1,
-  "RuledPrograms[0].ThemeBackground": 1,
-  "RuledPrograms[0].TextAlphaBlend": 1,
-  "RuledPrograms[0].ImmersiveDarkTitle": 1,
+  "RuledPrograms[0].ThemeBackground": 0,
+  "RuledPrograms[0].TextAlphaBlend": 0,
+  "RuledPrograms[0].ImmersiveDarkTitle": 0,
   "RuledPrograms[0].AccentBlurBehind": "B3000000",
-  "RuledPrograms[0].CornerOption": "default",
-  "RuledPrograms[1].AccentBlurBehind": "B3000000"
+  "RuledPrograms[0].CornerOption": "default"
 }
 ```
 
