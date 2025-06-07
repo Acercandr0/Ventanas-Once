@@ -49,6 +49,7 @@ Set the taskbar on top.
   "RuledPrograms[0].ThemeBackground": 1
 }
 ```
+**⚠️ Note:** Installing StartAllBack is a solid choice for fixing Windows UI elements that stubbornly refuse to go into Dark Mode. I still haven't found a way to fully sort this out using Windhawk.
 
 ### Windows 11 File Explorer Styler
 ```json
