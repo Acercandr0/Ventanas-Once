@@ -6,50 +6,39 @@
 ![Preview 2](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview2.png)
 ![Preview 3](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview3.png)
 
-### Customize Windows notifications placement  
-```json
-{"monitor":1,"monitorInterfaceName":"","horizontalPlacement":"right","horizontalDistanceFromScreenEdge":0,"verticalPlacement":"top","verticalDistanceFromScreenEdge":-20}
-```
-
-### Taskbar Clock Customization  
-```json
-{"ShowSeconds":0,"TimeFormat":"h':'mm tt","DateFormat":"d 'de' MMMM","WeekdayFormat":"dddd","WeekdayFormatCustom":"","TopLine":"%date%  %time%","BottomLine":"","MiddleLine":"","TooltipLine":"","Width":180,"Height":60,"MaxWidth":0,"TextSpacing":-1,"oldTaskbarOnWin11":0}
-```
-**⚠️ Note:** Change date format to english or leave it in spanish, it's your call.
-
 ### Taskbar on Top for Windows 11  
 Set the taskbar on top.
 
 ### Translucent Windows
 ```json
 {
-  "ThemeBackground": 1,
-  "type": "acrylicblur",
-  "ExtendFrame": 1,
+  "ThemeBackground": 0,
+  "type": "none",
+  "ExtendFrame": 0,
   "TitlebarColor.ColorTitlebar": 0,
   "TitlebarColor.titlerbarstyles_active": "FF0000",
   "TitlebarColor.titlerbarstyles_inactive": "00FFFF",
   "TitlebarTextColor.ColorTitlebarText": 0,
-  "TitlebarTextColor.titlerbarcolorstyles_active": "FF0000",
+  "TitlebarTextColor.titlerbaarcolorstyles_active": "FF0000",
   "TitlebarTextColor.titlerbarcolorstyles_inactive": "00FFFF",
   "BorderColor.ColorBorder": 0,
   "BorderColor.borderstyles_active": "FF0000",
   "BorderColor.borderstyles_inactive": "00FFFF",
   "BorderColor.MenuBorderColor": 0,
-  "TextAlphaBlend": 1,
-  "AccentBlurBehind": "B3000000",
-  "ImmersiveDarkTitle": 1,
+  "TextAlphaBlend": 0,
+  "AccentBlurBehind": "",
+  "ImmersiveDarkTitle": 0,
   "CornerOption": "default",
   "RainbowSpeed": 1,
-  "RuledPrograms[0].target": "notepad.exe",
-  "RuledPrograms[0].type": "acrylicsystem",
+  "RuledPrograms[0].target": "explorer.exe",
+  "RuledPrograms[0].ThemeBackground": 1,
+  "RuledPrograms[0].TextAlphaBlend": 1,
   "RuledPrograms[0].AccentBlurBehind": "B3000000",
+  "RuledPrograms[0].type": "acrylicblur",
   "RuledPrograms[0].ExtendFrame": 1,
-  "RuledPrograms[0].ImmersiveDarkTitle": 1,
-  "RuledPrograms[0].ThemeBackground": 1
+  "RuledPrograms[0].ImmersiveDarkTitle": 1
 }
 ```
-**⚠️ Note:** Installing StartAllBack is a solid choice for fixing Windows UI elements that stubbornly refuse to go into Dark Mode. I still haven't found a way to fully sort this out using Windhawk.
 
 ### Windows 11 File Explorer Styler
 ```json
@@ -131,6 +120,10 @@ Set the taskbar on top.
   "controlStyles[14].target": "QuickActions.ControlCenter.AccessibleWindow#PageWindow > ContentPresenter > Grid#FullScreenPageRoot > ContentPresenter#PageHeader",
   "controlStyles[14].styles[0]": "Background:=<SolidColorBrush Color=\"Transparent\"/>"
 }
+```
+### Customize Windows notifications placement  
+```json
+{"monitor":1,"monitorInterfaceName":"","horizontalPlacement":"right","horizontalDistanceFromScreenEdge":0,"verticalPlacement":"top","verticalDistanceFromScreenEdge":-20}
 ```
 
 ### Windows 11 Start Menu Styler
@@ -287,12 +280,19 @@ Set the taskbar on top.
 
 **⚠️ Note:** The icons used for the Start Button are stored in `C:\Customization\Icons\Start Button\`. You can download them from the main branch and place them in the same directory, or use your own custom path and button designs by updating the settings accordingly. There should be three versions: Normal, Hover, and Pressed.
 
+
+### Taskbar Clock Customization  
+```json
+{"ShowSeconds":0,"TimeFormat":"h':'mm tt","DateFormat":"d 'de' MMMM","WeekdayFormat":"dddd","WeekdayFormatCustom":"","TopLine":"%date%  %time%","BottomLine":"","MiddleLine":"","TooltipLine":"","Width":180,"Height":60,"MaxWidth":0,"TextSpacing":-1,"oldTaskbarOnWin11":0}
+```
+
+**⚠️ Note:** Change date format to english or leave it in spanish, it's your call.
 ### Taskbar Tray Icon Spacing
 ```json
 {"notificationIconWidth":25,"overflowIconWidth":30,"overflowIconsPerRow":5}
 ```
 
-### CEF/Spotify Tweaks ⭐
+### CEF/Spotify Tweaks
 This mod will help with navigations buttons transparency with Spicetify themes!
 ```json
 {"showframe":0,"showframeonothers":0,"showmenu":1,"showcontrols":1,"transparentcontrols":1,"transparentrendering":0,"noforceddarkmode":0,"forceextensions":0,"ignoreminsize":0,"allowuntested":0,"playbackspeed":"1"}
@@ -301,4 +301,5 @@ This mod will help with navigations buttons transparency with Spicetify themes!
 ### Disable grouping on the taskbar
 As it says, prevents grouping.
 
-[Wallpaper link](https://4kwallpapers.com/black-dark/ios-13-stock-ipados-dark-green-black-background-amoled-ipad-794.html)
+### Wallpaper
+[Link](https://4kwallpapers.com/black-dark/ios-13-stock-ipados-dark-green-black-background-amoled-ipad-794.html)
