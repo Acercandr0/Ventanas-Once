@@ -1,4 +1,6 @@
 # Ventanas Once 🦅 Windhawk config
+**Disclaimer:** The Action Center is positioned at the top of the screen and configured for a 2880x1800 px resolution. If your screen has a different resolution, you will need to adjust the margin values accordingly to ensure a proper fit.
+
 
 ## 📷 Preview
 
