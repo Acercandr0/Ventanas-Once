@@ -1,5 +1,19 @@
 # Ventanas Once 🦅 Windhawk config
-**Disclaimer:** The Action Center is positioned at the top of the screen and configured for a 2880x1800 px resolution. If your screen has a different resolution, you will need to adjust the margin values accordingly to ensure a proper fit.
+
+### 🔍 Readme first
+• The Action Center is positioned at the top of the screen and configured for a 2880x1800 px resolution.
+If your screen has a different resolution, you will need to adjust the margin values accordingly to ensure a proper fit.  
+
+• For **1920x1080 resolution**, you can find a solution [here](https://github.com/ramensoftware/windhawk-mods/issues/1053#issuecomment-2954166046).
+
+• It's also a good idea to install StartAllBack to fix some UI inconsistencies in Windows dark mode.
+
+### 🔗 Wallpaper
+[Link](https://4kwallpapers.com/black-dark/ios-13-stock-ipados-dark-green-black-background-amoled-ipad-794.html)
+### 🔗 Spicetify theme
+[Link](https://github.com/spicetify/spicetify-themes/tree/master/Sleek)
+### 🔗 qBittorrent theme
+[Link](https://github.com/witalihirsch/qBitTorrent-fluent-theme/tree/main/themes)
 
 
 ## 📷 Preview
@@ -7,9 +21,19 @@
 ![Preview 1](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview1.png)
 ![Preview 2](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview2.png)
 ![Preview 3](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview3.png)
+![Preview 4](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview4.png)
+![Preview 5](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview5.png)
+![Preview 6](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview6.png)
+
+### 🦅 Steps to Install Windhawk and Apply the Mods
+Follow these steps for **each mod** mentioned:
+
+1. **Download and install Windhawk** from [windhawk.net](https://windhawk.net).
+2. **Open Windhawk** and go to **“Explore”** in the upper right menu.
+3. **Search for the mod name**, click **“Details”**, and then **“Install”**. Accept
 
 ### Taskbar on Top for Windows 11  
-Set the taskbar on top.
+No config. Just set it to top.
 
 ### Translucent Windows
 ```json
@@ -330,29 +354,28 @@ Set the taskbar on top.
   "controlStyles[15].styles[0]": "Margin=-10,0,0,0"
 }
 ```
-
 **⚠️ Note:** The icons used for the Start Button are stored in `C:\Customization\Icons\Start Button\`. You can download them from the main branch and place them in the same directory, or use your own custom path and button designs by updating the settings accordingly. There should be three versions: Normal, Hover, and Pressed.
-
 
 ### Taskbar Clock Customization  
 ```json
 {"ShowSeconds":0,"TimeFormat":"h':'mm tt","DateFormat":"d 'de' MMMM","WeekdayFormat":"dddd","WeekdayFormatCustom":"","TopLine":"%date%  %time%","BottomLine":"","MiddleLine":"","TooltipLine":"","Width":180,"Height":60,"MaxWidth":0,"TextSpacing":-1,"oldTaskbarOnWin11":0}
 ```
-
 **⚠️ Note:** Change date format to english or leave it in spanish, it's your call.
+
 ### Taskbar Tray Icon Spacing
 ```json
 {"notificationIconWidth":25,"overflowIconWidth":30,"overflowIconsPerRow":5}
 ```
 
 ### CEF/Spotify Tweaks
-This mod will help with navigations buttons transparency with Spicetify themes!
+This mod will help with navigations buttons transparency with Spicetify themes.
 ```json
 {"showframe":0,"showframeonothers":0,"showmenu":1,"showcontrols":1,"transparentcontrols":1,"transparentrendering":0,"noforceddarkmode":0,"forceextensions":0,"ignoreminsize":0,"allowuntested":0,"playbackspeed":"1"}
 ```
 
 ### Disable grouping on the taskbar
-As it says, prevents grouping.
+No config. Just prevents grouping.
 
-### Wallpaper
-[Link](https://4kwallpapers.com/black-dark/ios-13-stock-ipados-dark-green-black-background-amoled-ipad-794.html)
+
+
+### That's it. Enjoy! 🍸
