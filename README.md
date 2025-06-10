@@ -17,28 +17,79 @@ Set the taskbar on top.
   "ThemeBackground": 0,
   "type": "none",
   "ExtendFrame": 0,
-  "TitlebarColor.ColorTitlebar": 0,
-  "TitlebarColor.titlerbarstyles_active": "FF0000",
-  "TitlebarColor.titlerbarstyles_inactive": "00FFFF",
-  "TitlebarTextColor.ColorTitlebarText": 0,
-  "TitlebarTextColor.titlerbaarcolorstyles_active": "FF0000",
-  "TitlebarTextColor.titlerbarcolorstyles_inactive": "00FFFF",
-  "BorderColor.ColorBorder": 0,
-  "BorderColor.borderstyles_active": "FF0000",
-  "BorderColor.borderstyles_inactive": "00FFFF",
-  "BorderColor.MenuBorderColor": 0,
+  "TitlebarColor": {
+    "ColorTitlebar": 0,
+    "titlerbarstyles_active": "FF0000",
+    "titlerbarstyles_inactive": "00FFFF"
+  },
+  "TitlebarTextColor": {
+    "ColorTitlebarText": 0,
+    "titlerbarcolorstyles_active": "FF0000",
+    "titlerbarcolorstyles_inactive": "00FFFF"
+  },
+  "BorderColor": {
+    "ColorBorder": 0,
+    "borderstyles_active": "0",
+    "borderstyles_inactive": "00FFFF",
+    "MenuBorderColor": 0,
+    "RainbowBorder": 0
+  },
   "TextAlphaBlend": 0,
   "AccentBlurBehind": "",
   "ImmersiveDarkTitle": 0,
   "CornerOption": "default",
   "RainbowSpeed": 1,
-  "RuledPrograms[0].target": "explorer.exe",
-  "RuledPrograms[0].ThemeBackground": 1,
-  "RuledPrograms[0].TextAlphaBlend": 1,
-  "RuledPrograms[0].AccentBlurBehind": "B3000000",
-  "RuledPrograms[0].type": "acrylicblur",
-  "RuledPrograms[0].ExtendFrame": 1,
-  "RuledPrograms[0].ImmersiveDarkTitle": 1
+  "RuledPrograms": [
+    {
+      "target": "explorer.exe",
+      "ThemeBackground": 1,
+      "TextAlphaBlend": 1,
+      "AccentBlurBehind": "B3000000",
+      "type": "acrylicblur",
+      "ExtendFrame": 1,
+      "ImmersiveDarkTitle": 0,
+      "TitlebarColor": {
+        "ColorTitlebar": 0
+      },
+      "BorderColor": {
+        "ColorBorder": 1,
+        "borderstyles_active": "0",
+        "borderstyles_inactive": "0"
+      },
+      "TitlebarTextColor": {
+        "ColorTitlebarText": 0,
+        "titlerbarcolorstyles_active": ""
+      }
+    },
+    {
+      "target": "notepad.exe",
+      "TextAlphaBlend": 0,
+      "ThemeBackground": 0,
+      "type": "acrylicsystem",
+      "ImmersiveDarkTitle": 1,
+      "ExtendFrame": 0,
+      "AccentBlurBehind": "",
+      "BorderColor": {
+        "ColorBorder": 1,
+        "borderstyles_active": "0",
+        "borderstyles_inactive": "0"
+      }
+    },
+    {
+      "target": "qbittorrent.exe",
+      "type": "acrylicblur",
+      "ImmersiveDarkTitle": 0,
+      "AccentBlurBehind": "B3000000",
+      "ThemeBackground": 1,
+      "ExtendFrame": 1,
+      "TextAlphaBlend": 1,
+      "BorderColor": {
+        "ColorBorder": 1,
+        "borderstyles_active": "0",
+        "borderstyles_inactive": "0"
+      }
+    }
+  ]
 }
 ```
 
