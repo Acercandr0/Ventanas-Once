@@ -40,10 +40,9 @@ Follow these steps for **each mod** mentioned:
 
 Repeat these steps for each mod you want to install.
 
-### Taskbar on Top for Windows 11  
-No config. Just set it to top.
 
-### Translucent Windows
+
+### 1. Translucent Windows
 ```json
 {
   "ThemeBackground": 0,
@@ -125,7 +124,7 @@ No config. Just set it to top.
 }
 ```
 
-### Windows 11 File Explorer Styler
+### 2. Windows 11 File Explorer Styler
 ```json
 {
   "controlStyles[0].target": "Microsoft.UI.Xaml.Controls.AppBarSeparator",
@@ -142,7 +141,7 @@ No config. Just set it to top.
 }
 ```
 
-### Windows 11 Notification Center Styler  
+### 3. Windows 11 Notification Center Styler  
 ```json
 {
   "controlStyles[0].target": "Grid#NotificationCenterGrid",
@@ -206,12 +205,15 @@ No config. Just set it to top.
   "controlStyles[14].styles[0]": "Background:=<SolidColorBrush Color=\"Transparent\"/>"
 }
 ```
-### Customize Windows notifications placement  
+### 4. Customize Windows notifications placement  
 ```json
 {"monitor":1,"monitorInterfaceName":"","horizontalPlacement":"right","horizontalDistanceFromScreenEdge":0,"verticalPlacement":"top","verticalDistanceFromScreenEdge":-20}
 ```
 
-### Windows 11 Start Menu Styler
+### 5. Taskbar on Top for Windows 11  
+No config. Just set it to top.
+
+### 6. Windows 11 Start Menu Styler
 ```json
 {
   "controlStyles[0].target": "Windows.UI.Xaml.Controls.Grid#RootPanel",
@@ -288,7 +290,7 @@ No config. Just set it to top.
 }
 ```
 
-### Windows 11 Taskbar Styler  
+### 7. Windows 11 Taskbar Styler  
 ```json
 {
   "theme": "",
@@ -365,24 +367,24 @@ No config. Just set it to top.
 ⚠️ **Note:** The icons used for the Start Button are stored in `C:\Customization\Icons\Start Button\`.  
 You can **download them from the main branch** [here](https://github.com/Acercandr0/Ventanas-Once/blob/main/Start%20Button.7z) and place them in the same directory, or customize the path and button design by updating the settings accordingly.  
 
-### Taskbar Clock Customization  
+### 8. Taskbar Clock Customization  
 ```json
 {"ShowSeconds":0,"TimeFormat":"h':'mm tt","DateFormat":"d 'de' MMMM","WeekdayFormat":"dddd","WeekdayFormatCustom":"","TopLine":"%date%  %time%","BottomLine":"","MiddleLine":"","TooltipLine":"","Width":180,"Height":60,"MaxWidth":0,"TextSpacing":-1,"oldTaskbarOnWin11":0}
 ```
 **⚠️ Note:** Change date format to english or leave it in spanish, it's your call.
 
-### Taskbar Tray Icon Spacing
+### 8. Taskbar Tray Icon Spacing
 ```json
 {"notificationIconWidth":25,"overflowIconWidth":30,"overflowIconsPerRow":5}
 ```
 
-### CEF/Spotify Tweaks
+### 10. CEF/Spotify Tweaks
 This mod will help with navigations buttons transparency with Spicetify themes.
 ```json
 {"showframe":0,"showframeonothers":0,"showmenu":1,"showcontrols":1,"transparentcontrols":1,"transparentrendering":0,"noforceddarkmode":0,"forceextensions":0,"ignoreminsize":0,"allowuntested":0,"playbackspeed":"1"}
 ```
 
-### Disable grouping on the taskbar
+### 11. Disable grouping on the taskbar (optional)
 No config. Just prevents grouping.
 
 
