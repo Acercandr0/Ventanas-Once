@@ -1,28 +1,31 @@
 # Ventanas Once 🦅 Windhawk config
 
 ### 🔍 Readme first
-• The Action Center is positioned at the top of the screen and configured for a 2880x1800 px resolution.
-If your screen has a different resolution, you will need to adjust the margin values accordingly to ensure a proper fit.  
 
+• The Action Center is positioned at the top of the screen and configured for a 2880x1800 px resolution. If your screen has a different resolution, you will need to adjust the margin values accordingly to ensure a proper fit.  
 • For **1920x1080 resolution**, you can find a solution [here](https://github.com/ramensoftware/windhawk-mods/issues/1053#issuecomment-2954166046).
-
 • It's also a good idea to install StartAllBack to fix some UI inconsistencies in Windows dark mode.
 
 ### 🔗 Wallpaper
 [Link](https://4kwallpapers.com/black-dark/ios-13-stock-ipados-dark-green-black-background-amoled-ipad-794.html)
 ### 🔗 Spicetify theme
 [Link](https://github.com/spicetify/spicetify-themes/tree/master/Sleek)
-### 🔗 qBittorrent theme
+### 🔗 qBittorrent theme (fluent-dark.qbtheme)
 [Link](https://github.com/witalihirsch/qBitTorrent-fluent-theme/tree/main/themes)
 
 
 ## 📷 Preview
 
 ![Preview 1](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview1.png)
+
 ![Preview 2](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview2.png)
+
 ![Preview 3](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview3.png)
+
 ![Preview 4](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview4.png)
+
 ![Preview 5](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview5.png)
+
 ![Preview 6](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview6.png)
 
 ### 🦅 Steps to Install Windhawk and Apply the Mods
@@ -354,7 +357,8 @@ No config. Just set it to top.
   "controlStyles[15].styles[0]": "Margin=-10,0,0,0"
 }
 ```
-**⚠️ Note:** The icons used for the Start Button are stored in `C:\Customization\Icons\Start Button\`. You can download them from the main branch and place them in the same directory, or use your own custom path and button designs by updating the settings accordingly. There should be three versions: Normal, Hover, and Pressed.
+⚠️ **Note:** The icons used for the Start Button are stored in `C:\Customization\Icons\Start Button\`.  
+You can **download them from the main branch** [here](https://github.com/Acercandr0/Ventanas-Once/blob/main/Start%20Button.7z) and place them in the same directory, or customize the path and button design by updating the settings accordingly.  
 
 ### Taskbar Clock Customization  
 ```json
