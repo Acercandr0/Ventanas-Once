@@ -29,11 +29,16 @@
 ![Preview 6](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview6.png)
 
 ### 🦅 Steps to Install Windhawk and Apply the Mods
+
 Follow these steps for **each mod** mentioned:
 
 1. **Download and install Windhawk** from [windhawk.net](https://windhawk.net).
 2. **Open Windhawk** and go to **“Explore”** in the upper right menu.
-3. **Search for the mod name**, click **“Details”**, and then **“Install”**. Accept
+3. **Search for the mod name**, click **“Details”**, and then **“Install”**. Accept any pop-ups.
+4. **Go to the mod’s “Advanced” tab** and **paste the provided JSON configuration**.
+5. **Apply the changes** and restart any affected applications if necessary.
+
+Repeat these steps for each mod you want to install.
 
 ### Taskbar on Top for Windows 11  
 No config. Just set it to top.
