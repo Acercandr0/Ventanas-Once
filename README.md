@@ -3,7 +3,9 @@
 ### 🔍 Readme first
 
 • The Action Center is positioned at the top of the screen and configured for a 2880x1800 px resolution. If your screen has a different resolution, you will need to adjust the margin values accordingly to ensure a proper fit.  
+
 • For **1920x1080 resolution**, you can find a solution [here](https://github.com/ramensoftware/windhawk-mods/issues/1053#issuecomment-2954166046).
+
 • It's also a good idea to install StartAllBack to fix some UI inconsistencies in Windows dark mode.
 
 ### 🔗 Wallpaper
