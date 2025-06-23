@@ -18,17 +18,21 @@
 
 ## 📷 Preview
 
-![Preview 1](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview1.png)
+![Preview 1](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev1.png)
 
-![Preview 2](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview2.png)
+![Preview 2](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev2.png)
 
-![Preview 3](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview3.png)
+![Preview 3](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev3.png)
 
-![Preview 4](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview4.png)
+![Preview 4](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev4.png)
 
-![Preview 5](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview5.png)
+![Preview 5](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev5.png)
 
-![Preview 6](https://github.com/Acercandr0/Ventanas-Once/blob/main/Preview6.png)
+![Preview 6](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev6.png)
+
+![Preview 7](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev7.png)
+
+![Preview 8](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev8.png)
 
 ### 🦅 Steps to Install Windhawk and Apply the Mods
 
