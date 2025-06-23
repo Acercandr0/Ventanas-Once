@@ -19,6 +19,8 @@ If your screen has a different resolution (for example, 1920x1080), you'll need 
     * [8. Disable grouping on the taskbar](#8-disable-grouping-on-the-taskbar)
     * [9. Customize Windows notifications placement](#9-customize-windows-notifications-placement)
     * [10. Dark mode context menus](#10-dark-mode-context-menus)
+    * [11. Taskbar on top for Windows 11](#11-taskbar-on-top-for-windows-11)
+
 * [🔨 Fix the dark mode text with SecureUxTheme](#-fix-the-dark-mode-text-with-secureuxtheme)
 * [🦊 Firefox Theme](#-firefox-theme)
 
