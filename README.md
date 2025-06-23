@@ -104,6 +104,7 @@ Follow 3-4-5 steps for **each mod** mentioned:
 ```
 
 ### 2. Windows 11 Start Menu Styler
+⚠️ This json only is written for the NEW Windows 11 StartMenu.
 ```json
 {
   "controlStyles[0].target": "Windows.UI.Xaml.Controls.Border#BorderElement",
