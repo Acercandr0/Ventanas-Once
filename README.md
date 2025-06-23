@@ -4,13 +4,33 @@
 The Start Menu and Action Center are configured for a 2880x1800 pixel resolution with 200% scaling.
 If your screen has a different resolution (for example, 1920x1080), you'll need to adjust the targets and styles that affect their position to ensure correct functionality and proper display.
 
-#### 🔗 [Wallpaper](https://www.uhdpaper.com/2019/08/abstract-digital-art-4k-4301.html)
-#### 🔗 [Spicetify theme](https://github.com/spicetify/spicetify-themes/tree/master/Sleek)
-#### 🔗 [qBittorrent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme/tree/main/themes)
-#### 🔗 [Firefox theme](https://github.com/Acercandr0/Ventanas-Once/blob/main/chrome.7z)
-#### 🔗 [SecureUXTheme Tool](https://github.com/namazso/SecureUxTheme)
-#### 🔗 [Rectify 11 Themes](https://github.com/Acercandr0/Ventanas-Once/blob/main/Rectify11%20Themes.7z)
-#### 🔗 [Start Buttons](https://github.com/Acercandr0/Ventanas-Once/blob/main/Start%20Button.7z)
+#### Table of contents
+* [🔗 Links](#-links)
+* [📷 Previews](#-previews)
+* [🦅 Windhawk Mods](#-windhawk-mods)
+    * [1. Translucent Windows](#1-translucent-windows)
+    * [2. Windows 11 File Explorer Styler](#2-windows-11-file-explorer-styler)
+    * [2. Windows 11 Start Menu Styler](#2-windows-11-start-menu-styler)
+    * [3. Windows 11 Taskbar Styler](#3-windows-11-taskbar-styler)
+    * [4. Windows 11 Notification Center Styler](#4-windows-11-notification-center-styler)
+    * [5. Taskbar Clock Customization](#5-taskbar-clock-customization)
+    * [6. Taskbar Tray Icon Spacing](#6-taskbar-tray-icon-spacing)
+    * [7. CEF/Spotify Tweaks](#7-cefspotify-tweaks)
+    * [8. Disable grouping on the taskbar](#8-disable-grouping-on-the-taskbar)
+    * [9. Customize Windows notifications placement](#9-customize-windows-notifications-placement)
+    * [10. Dark mode context menus](#10-dark-mode-context-menus)
+* [🔨 Fix the dark mode text with SecureUxTheme](#-fix-the-dark-mode-text-with-secureuxtheme)
+* [🦊 Firefox Theme](#-firefox-theme)
+
+
+## 🔗 Links
+##### [Wallpaper](https://www.uhdpaper.com/2019/08/abstract-digital-art-4k-4301.html)
+##### [Spicetify theme](https://github.com/spicetify/spicetify-themes/tree/master/Sleek)
+##### [qBittorrent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme/tree/main/themes)
+##### [Firefox theme](https://github.com/Acercandr0/Ventanas-Once/blob/main/chrome.7z)
+##### [SecureUXTheme Tool](https://github.com/namazso/SecureUxTheme)
+##### [Rectify 11 Themes](https://github.com/Acercandr0/Ventanas-Once/blob/main/Rectify11%20Themes.7z)
+##### [Start Buttons](https://github.com/Acercandr0/Ventanas-Once/blob/main/Start%20Button.7z)
 Make a dir called 'C:\Customization\Icons\Start Button' and unzip the start buttons here.
 
 ## 📷 Previews
@@ -39,7 +59,7 @@ Make a dir called 'C:\Customization\Icons\Start Button' and unzip the start butt
 4. **Go to the mod’s “Advanced” tab** and **paste the provided JSON configuration**.
 5. **Apply the changes** and restart any affected applications if necessary.
 
-Follow 3,4 and 5 steps for **each mod** mentioned:
+Follow 3-4-5 steps for **each mod** mentioned:
 
 ### 1. Translucent Windows
 ```json
