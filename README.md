@@ -291,6 +291,10 @@ No config, use Settings tab.
 ### 10. Dark mode context menus
 No config, use Settings tab.
 
+### 11. Taskbar on top for Windows 11
+No config, use Settings tab.
+
+
 ## 🔨 Fix the dark mode text with SecureUxTheme
 ⚠️ You must install UXTheme hook Mod on Windhawk first
 
