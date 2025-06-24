@@ -92,6 +92,7 @@ Follow 3-4-5 steps for **each mod** mentioned:
 ### 2. Windows 11 File Explorer Styler
 ```json
 {
+  "theme": "",
   "controlStyles[0].target": "Microsoft.UI.Xaml.Controls.AppBarSeparator",
   "controlStyles[0].styles[0]": "Visibility=Collapsed",
   "controlStyles[1].target": "Grid#DetailsViewControlRootGrid",
@@ -101,8 +102,25 @@ Follow 3-4-5 steps for **each mod** mentioned:
   "controlStyles[3].target": "Grid#CommandBarControlRootGrid",
   "controlStyles[3].styles[0]": "Background=Transparent",
   "controlStyles[3].styles[1]": "BorderThickness=0,0,0,0",
-  "controlStyles[4].target": "CommandBar#FileExplorerCommandBar",
-  "controlStyles[4].styles[0]": "Background=Transparent"
+  "controlStyles[4].target": "FileExplorerExtensions.GalleryViewControl#GalleryViewControl > Grid",
+  "controlStyles[4].styles[0]": "Background=Transparent",
+  "controlStyles[5].target": "FileExplorerExtensions.GalleryViewControl#GalleryViewControl > Grid > Grid#GalleryRootGrid",
+  "controlStyles[5].styles[0]": "Background=Transparent",
+  "controlStyles[6].target": "TabViewItem > Grid#LayoutRoot > Canvas > Microsoft.UI.Xaml.Shapes.Path#SelectedBackgroundPath",
+  "controlStyles[6].styles[0]": "Fill=Transparent",
+  "controlStyles[7].target": "Microsoft.UI.Xaml.Controls.Grid#NavigationBarControlGrid",
+  "controlStyles[7].styles[0]": "Background=Transparent",
+  "controlStyles[8].target": "CommandBar#FileExplorerCommandBar",
+  "controlStyles[8].styles[0]": "Background=Transparent",
+  "controlStyles[9].target": "Microsoft.UI.Xaml.Controls.Border#RightBottomBorderLine",
+  "controlStyles[9].styles[0]": "Visibility=Collapsed",
+  "controlStyles[10].target": "Microsoft.UI.Xaml.Controls.Border#LeftBottomBorderLine",
+  "controlStyles[10].styles[0]": "Visibility=Collapsed",
+  "controlStyles[11].target": "Microsoft.UI.Xaml.Controls.Border#BottomBorderLine",
+  "controlStyles[11].styles[0]": "Visibility=Collapsed",
+  "controlStyles[12].target": "TabViewItem > Grid#LayoutRoot > Grid#TabContainer",
+  "controlStyles[12].styles[0]": "BorderBrush=Transparent",
+  "controlStyles[12].styles[1]": "Background=Transparen"
 }
 ```
 
