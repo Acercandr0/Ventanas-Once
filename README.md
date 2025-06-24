@@ -236,6 +236,7 @@ Follow 3-4-5 steps for **each mod** mentioned:
   "controlStyles[0].styles[0]": "Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.5\" BackgroundSource=\"Backdrop\" />",
   "controlStyles[0].styles[1]": "BorderThickness=0,0,0,0",
   "controlStyles[0].styles[2]": "Shadow:=",
+  "controlStyles[0].styles[3]": "VerticalAlignment=Stretch",
   "controlStyles[1].target": "Grid#CalendarCenterGrid",
   "controlStyles[1].styles[0]": "Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.5\" BackgroundSource=\"Backdrop\" />",
   "controlStyles[1].styles[1]": "BorderThickness=0,0,0,0",
@@ -255,6 +256,7 @@ Follow 3-4-5 steps for **each mod** mentioned:
   "controlStyles[6].styles[0]": "Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.5\" BackgroundSource=\"Backdrop\" />",
   "controlStyles[6].styles[1]": "BorderThickness=0,0,0,0",
   "controlStyles[6].styles[2]": "Margin=-2,-2,-2,-2",
+  "controlStyles[6].styles[3]": "Shadow:=",
   "controlStyles[7].target": "Grid#ControlCenterRegion",
   "controlStyles[7].styles[0]": "Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.5\" BackgroundSource=\"Backdrop\" />",
   "controlStyles[7].styles[1]": "BorderThickness=0,0,0,0",
@@ -277,7 +279,12 @@ Follow 3-4-5 steps for **each mod** mentioned:
   "controlStyles[13].styles[0]": "Background:=<SolidColorBrush Color=\"Transparent\"/>",
   "controlStyles[14].target": "QuickActions.ControlCenter.AccessibleWindow#PageWindow > ContentPresenter > Grid#FullScreenPageRoot > ContentPresenter#PageHeader",
   "controlStyles[14].styles[0]": "Background:=<SolidColorBrush Color=\"Transparent\"/>",
-  "controlStyles[0].styles[3]": "VerticalAlignment=Stretch"
+  "controlStyles[15].target": "Windows.UI.Xaml.Controls.Grid#ThumbnailImage",
+  "controlStyles[15].styles[0]": "RenderTransform:=<ScaleTransform ScaleX=\"1.2\" ScaleY=\"1.2\" />",
+  "controlStyles[15].styles[1]": "RenderTransformOrigin=0.5,0.5",
+  "controlStyles[16].target": "Windows.UI.Xaml.Controls.ListView#MediaButtonsListView",
+  "controlStyles[16].styles[0]": "RenderTransform:=<ScaleTransform ScaleX=\"0.9\" ScaleY=\"0.9\" />",
+  "controlStyles[16].styles[1]": "RenderTransformOrigin=0.5,0.5"
 }
 ```
 
