@@ -1,7 +1,8 @@
 # Ventanas Once 3.0 🦅
 
 #### ⚠️ README FIRST
-The Start Menu and Action Center are configured for a 2880x1800 pixel resolution with 200% scaling. The Start Menu's styling is specifically for Windows 11's new design, using updated targets, so it might not work correctly with the older Start Menu layout.
+The Start Menu and Action Center are configured for a 2880x1800 pixel resolution with 200% scaling.
+The Start Menu's styling is specifically for Windows 11's new design, using updated targets, so it might not work correctly with the older Start Menu layout.
 
 If your screen has a different resolution (for example, 1920x1080), you'll need to adjust the targets and styles that affect their position to ensure correct functionality and proper display.
 
@@ -71,12 +72,12 @@ Follow 3-4-5 steps for **each mod** mentioned:
   "type": "acrylicblur",
   "ExtendFrame": 1,
   "TitlebarColor.ColorTitlebar": 0,
-  "TitlebarColor.titlerbarstyles_active": "FF0000",
-  "TitlebarColor.titlerbarstyles_inactive": "00FFFF",
+  "TitlebarColor.titlerbarstyles_active": "",
+  "TitlebarColor.titlerbarstyles_inactive": "",
   "TitlebarTextColor.ColorTitlebarText": 0,
-  "TitlebarTextColor.titlerbarcolorstyles_active": "FF0000",
-  "TitlebarTextColor.titlerbarcolorstyles_inactive": "00FFFF",
-  "BorderColor.ColorBorder": 0,
+  "TitlebarTextColor.titlerbarcolorstyles_active": "",
+  "TitlebarTextColor.titlerbarcolorstyles_inactive": "",
+  "BorderColor.ColorBorder": 1,
   "BorderColor.borderstyles_active": "0",
   "BorderColor.borderstyles_inactive": "0",
   "BorderColor.MenuBorderColor": 0,
@@ -85,7 +86,13 @@ Follow 3-4-5 steps for **each mod** mentioned:
   "ImmersiveDarkTitle": 1,
   "CornerOption": "default",
   "RainbowSpeed": 1,
-  "BorderColor.RainbowBorder": 0
+  "BorderColor.RainbowBorder": 0,
+  "TitlebarColor.RainbowTitlebar": 0,
+  "RuledPrograms[0].target": "olk.exe",
+  "RuledPrograms[0].type": "acrylicblur",
+  "RuledPrograms[0].BorderColor.ColorBorder": 1,
+  "RuledPrograms[0].BorderColor.borderstyles_active": "0",
+  "RuledPrograms[0].BorderColor.borderstyles_inactive": "0"
 }
 ```
 
@@ -149,17 +156,18 @@ Follow 3-4-5 steps for **each mod** mentioned:
   "controlStyles[8].target": "Windows.UI.Xaml.Controls.Border#RightCompanionDropShadow",
   "controlStyles[8].styles[0]": "Visibility=Collapsed",
   "controlStyles[9].target": "Windows.UI.Xaml.Controls.Border#AppBorder",
-  "controlStyles[9].styles[0]": "Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.5\" BackgroundSource=\"Backdrop\" />",
+  "controlStyles[9].styles[0]": "Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.6\" BackgroundSource=\"Backdrop\" />",
   "controlStyles[10].target": "Windows.UI.Xaml.Controls.Border#TaskbarSearchBackground",
   "controlStyles[10].styles[0]": "Background=Transparent",
   "controlStyles[11].target": "Windows.UI.Xaml.Controls.Border#dropshadow",
   "controlStyles[11].styles[0]": "Visibility=Collapsed",
-  "controlStyles[12].target": "Windows.UI.Xaml.Controls.Border#LayerBorder",
-  "controlStyles[12].styles[0]": "Visibility=Collapsed",
   "controlStyles[3].styles[1]": "BorderThickness=0,0,0,0",
-  "controlStyles[13].target": "Windows.UI.Xaml.Controls.Grid#UserTileIcon",
-  "controlStyles[13].styles[0]": "Width=36",
-  "controlStyles[13].styles[1]": "Height=36"
+  "controlStyles[12].target": "Windows.UI.Xaml.Controls.Grid#UserTileIcon",
+  "controlStyles[12].styles[0]": "Width=36",
+  "controlStyles[12].styles[1]": "Height=36",
+  "controlStyles[9].styles[1]": "BorderThickness=0,0,0,0",
+  "controlStyles[13].target": "Windows.UI.Xaml.Controls.Border#LayerBorder",
+  "controlStyles[13].styles[0]": "Visibility=Collapsed"
 }
 ```
 
@@ -319,8 +327,11 @@ No config, use Settings tab.
 ⚠️ You must install UXTheme hook Mod on Windhawk first
 
 1. Unzip Rectify11 themes in 'C:\Windows\Resources\Themes'
-2. Open SecureUxTheme Tool
-3. Select 'Rectify11 dark theme" and click on "patch and apply"
+2. Run SecureUxTheme Tool as administrator.
+3. Check 'Hook SystemSettings', 'Hook LogonUI' and 'Remove DefaultColors"
+4. Install and reboot.
+5. 2. Run SecureUxTheme Tool again.
+6. Select 'Rectify11 dark theme" and click on "patch and apply",
 
 ## 🦊 Firefox Theme
 1. Open your browser and type about:profiles into the address bar, then hit Enter.
