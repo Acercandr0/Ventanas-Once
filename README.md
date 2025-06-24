@@ -1,10 +1,11 @@
 # Ventanas Once 3.0 🦅
 
-#### ⚠️ README FIRST
-The Start Menu and Action Center are configured for a 2880x1800 pixel resolution with 200% scaling.
-The Start Menu's styling is specifically for Windows 11's new design, using updated targets, so it might not work correctly with the older Start Menu layout.
+#### ⚠️ README FIRST ⚠️
+- The Start Menu and Action Center are configured for a 2880x1800 pixel resolution with 200% scaling.
 
-If your screen has a different resolution (for example, 1920x1080), you'll need to adjust the targets and styles that affect their position to ensure correct functionality and proper display.
+- The Start Menu's styling is **specifically for Windows 11's new design** (Insider program), using updated targets, so it might not work correctly with the older Start Menu layout.
+
+- If your screen has a different resolution (for example, 1920x1080), you'll need to adjust the targets and styles that affect their position to ensure correct functionality and proper display.
 
 #### Table of contents
 * [🔗 Links](#-links)
