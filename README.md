@@ -250,7 +250,7 @@ Follow 3-4-5 steps for **each mod** mentioned:
   "controlStyles[7].target": "Grid#ControlCenterRegion",
   "controlStyles[7].styles[0]": "Background:=<AcrylicBrush TintColor=\"Black\" TintOpacity=\"0.5\" BackgroundSource=\"Backdrop\" />",
   "controlStyles[7].styles[1]": "BorderThickness=0,0,0,0",
-  "controlStyles[7].styles[2]": "Margin=0,0,0,457",
+  "controlStyles[7].styles[2]": "Margin=0,0,0,460",
   "controlStyles[7].styles[3]": "Shadow:=",
   "controlStyles[8].target": "Windows.UI.Xaml.Controls.Grid#L1Grid > Border",
   "controlStyles[8].styles[0]": "Background:=<SolidColorBrush Color=\"Transparent\"/>",
