@@ -34,6 +34,7 @@ If your screen has a different resolution (for example, 1920x1080), you'll need 
 ##### [Firefox theme](https://github.com/Acercandr0/Ventanas-Once/blob/main/chrome.7z)
 ##### [SecureUXTheme Tool](https://github.com/namazso/SecureUxTheme)
 ##### [Rectify 11 Themes](https://github.com/Acercandr0/Ventanas-Once/blob/main/Rectify11%20Themes.7z)
+You can use any dark theme for this.
 ##### [Start Buttons](https://github.com/Acercandr0/Ventanas-Once/blob/main/Start%20Button.7z)
 Make a dir called 'C:\Customization\Icons\Start Button' and unzip the start buttons here.
 
@@ -331,8 +332,6 @@ No config, use Settings tab.
 
 
 ## 🔨 Fix the dark mode text with SecureUxTheme
-⚠️ You must install UXTheme hook Mod on Windhawk first
-
 1. Unzip Rectify11 themes in 'C:\Windows\Resources\Themes'
 2. Run SecureUxTheme Tool as administrator.
 3. Check 'Hook SystemSettings', 'Hook LogonUI' and 'Remove DefaultColors"
