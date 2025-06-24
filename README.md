@@ -34,10 +34,8 @@
 ##### [qBittorrent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme/tree/main/themes)
 ##### [Firefox theme](https://github.com/Acercandr0/Ventanas-Once/blob/main/chrome.7z)
 ##### [SecureUXTheme Tool](https://github.com/namazso/SecureUxTheme)
-##### [Rectify 11 Themes](https://github.com/Acercandr0/Ventanas-Once/blob/main/Rectify11%20Themes.7z)
-You can use any dark theme for this.
-##### [Start Buttons](https://github.com/Acercandr0/Ventanas-Once/blob/main/Start%20Button.7z)
-Make a dir called 'C:\Customization\Icons\Start Button' and unzip the start buttons here.
+##### [Rectify 11 Themes](https://github.com/Acercandr0/Ventanas-Once/blob/main/Rectify11%20Themes.7z) You can use any dark theme for this.
+##### [Start Buttons](https://github.com/Acercandr0/Ventanas-Once/blob/main/Start%20Button.7z) Make a dir called 'C:\Customization\Icons\Start Button' and unzip the start buttons here.
 
 ## 📷 Previews
 
