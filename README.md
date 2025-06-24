@@ -38,21 +38,21 @@ Make a dir called 'C:\Customization\Icons\Start Button' and unzip the start butt
 
 ## 📷 Previews
 
-![Preview 1](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev1.png)
+![Preview 1](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev1.pn)
 
-![Preview 2](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev2.png)
+![Preview 2](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev2.pn)
 
-![Preview 3](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev3.png)
+![Preview 3](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev3.pn)
 
-![Preview 4](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev4.png)
+![Preview 4](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev4.pn)
 
-![Preview 5](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev5.png)
+![Preview 5](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev5.pn)
 
-![Preview 6](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev6.png)
+![Preview 6](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev6.pn)
 
-![Preview 7](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev7.png)
+![Preview 7](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev7.pn)
 
-![Preview 8](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev8.png)
+![Preview 8](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev8.pn)
 
 ## 🦅 Windhawk Mods
 
