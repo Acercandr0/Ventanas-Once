@@ -27,7 +27,7 @@ If your screen has a different resolution (for example, 1920x1080), you'll need 
 
 
 ## 🔗 Links
-##### [Wallpaper](https://www.uhdpaper.com/2019/08/abstract-digital-art-4k-4301.html)
+##### [Wallpaper](https://4kwallpapers.com/black-dark/ios-13-stock-ipados-dark-green-black-background-amoled-ipad-794.html)
 ##### [Spicetify theme](https://github.com/spicetify/spicetify-themes/tree/master/Sleek)
 ##### [qBittorrent theme](https://github.com/witalihirsch/qBitTorrent-fluent-theme/tree/main/themes)
 ##### [Firefox theme](https://github.com/Acercandr0/Ventanas-Once/blob/main/chrome.7z)
