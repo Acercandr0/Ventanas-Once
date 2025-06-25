@@ -127,7 +127,7 @@ Follow 3-4-5 steps for **each mod** mentioned:
   "controlStyles[11].styles[0]": "Visibility=Collapsed",
   "controlStyles[12].target": "TabViewItem > Grid#LayoutRoot > Grid#TabContainer",
   "controlStyles[12].styles[0]": "BorderBrush=Transparent",
-  "controlStyles[12].styles[1]": "Background=Transparen"
+  "controlStyles[12].styles[1]": "Background=Transparent"
 }
 ```
 
