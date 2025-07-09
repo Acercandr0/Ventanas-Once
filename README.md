@@ -352,7 +352,7 @@ No config, use Settings tab.
     * `widget.windows.mica`
     * `browser.theme.native-theme`
     * `browser.tabs.allow_transparent_browser`
-    * *You might also want to check for `toolkit.legacyUserProfileCustomizations.enabled` and set it to `true` if it's not already, as it's often required for custom themes to work correctly.*
+    `toolkit.legacyUserProfileCustomizations.enabled`
 6.  **Restart Firefox** for the changes to take effect.
 
 ### That's it. Enjoy! 🍸
