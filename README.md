@@ -167,7 +167,11 @@ Follow 3-4-5 steps for **each mod** mentioned:
   "controlStyles[12].styles[1]": "Height=36",
   "controlStyles[9].styles[1]": "BorderThickness=0,0,0,0",
   "controlStyles[13].target": "Windows.UI.Xaml.Controls.Border#LayerBorder",
-  "controlStyles[13].styles[0]": "Visibility=Collapsed"
+  "controlStyles[13].styles[0]": "Visibility=Collapsed",
+  "controlStyles[14].target": "StartMenu.FolderModal",
+  "controlStyles[14].styles[0]": "RenderTransform:=<TranslateTransform X=\"0\" Y=\"368\" />",
+  "controlStyles[15].target": "Windows.UI.Xaml.Controls.Border",
+  "controlStyles[15].styles[0]": "BorderThickness=0,0,0,0"
 }
 ```
 
