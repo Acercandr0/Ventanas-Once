@@ -343,8 +343,16 @@ No config, use Settings tab.
 6. Select 'Rectify11 dark theme" and click on "patch and apply",
 
 ## 🦊 Firefox Theme
-1. Open your browser and type about:profiles into the address bar, then hit Enter.
-2. Find your root profile folder (usually labeled "Root Directory") and click the "Open Folder" button next to it.
-3. Once the folder opens, unzip the contents of [chrome.7z](https://github.com/Acercandr0/Ventanas-Once/blob/main/chrome.7z) directly into this folder, replacing existing files if necessary.
+
+1.  Open your browser and type `about:profiles` into the address bar, then hit Enter.
+2.  Find your root profile folder (usually labeled "**Root Directory**") and click the "**Open Folder**" button next to it.
+3.  Once the folder opens, **unzip** the contents of [chrome.7z](https://github.com/Acercandr0/Ventanas-Once/blob/main/chrome.7z) directly into this folder, **replacing existing files if necessary**.
+4.  Now, type `about:config` into the address bar and hit Enter. **Accept the warning** if it appears.
+5.  In the search bar within `about:config`, search for and **set the following preferences to `true`** (you can do this by double-clicking on them or toggling their value):
+    * `widget.windows.mica`
+    * `browser.theme.native-theme`
+    * `browser.tabs.allow_transparent_browser`
+    * *You might also want to check for `toolkit.legacyUserProfileCustomizations.enabled` and set it to `true` if it's not already, as it's often required for custom themes to work correctly.*
+6.  **Restart Firefox** for the changes to take effect.
 
 ### That's it. Enjoy! 🍸
