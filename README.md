@@ -24,15 +24,15 @@
 
 ## 📷 Previews
 
-![Preview 1](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev1.png)
+![Preview 1](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev1.png)
 
-![Preview 2](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev2.png)
+![Preview 2](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev2.png)
 
-![Preview 3](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev3.png)
+![Preview 3](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev3.png)
 
-![Preview 4](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev4.png)
+![Preview 4](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev4.png)
 
-![Preview 5](https://github.com/Acercandr0/Ventanas-Once/blob/main/prev5.png)
+![Preview 5](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev5.png)
 
 
 ## 🦅 Windhawk Mods
