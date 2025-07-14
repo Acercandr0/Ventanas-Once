@@ -97,8 +97,9 @@ Follow 3-4-5 steps for **each mod** mentioned:
 ### 2. Windows 11 Start Menu Styler
 ⚠️ This json only work with the NEW Windows 11 StartMenu.
 ```json
-{"controlStyles[0].target":"Border#BorderElement","controlStyles[0].styles[0]":"Background=Transparent",
-"controlStyles[1].target":"Border#StartDropShadow","controlStyles[1].styles[0]":"Visibility=Collapsed",
+{
+"controlStyles[0].target":"Border#BorderElement","controlStyles[0].styles[0]":"Background=Transparent",
+"controlStyles[1].target":"Border#StartDropShadow\"","controlStyles[1].styles[0]":"Visibility=Collapsed",
 "controlStyles[2].target":"Border#AcrylicBorder","controlStyles[2].styles[0]":"Background:=<WindhawkBlur BlurAmount=\"20\" TintColor=\"#50181818\"/>",
 "controlStyles[3].target":"Border#AcrylicOverlay","controlStyles[3].styles[0]":"Background:=Transparent","controlStyles[3].styles[1]":"BorderThickness=0,0,0,0",
 "controlStyles[4].target":"Grid#UnderlineContainer","controlStyles[4].styles[0]":"Visibility=Collapsed",
@@ -112,7 +113,9 @@ Follow 3-4-5 steps for **each mod** mentioned:
 "controlStyles[12].target":"Windows.UI.Xaml.Controls.Border#LayerBorder","controlStyles[12].styles[0]":"Visibility=Collapsed",
 "controlStyles[13].target":"StartMenu.FolderModal","controlStyles[13].styles[0]":"RenderTransform:=<TranslateTransform X=\"0\" Y=\"368\" />",
 "controlStyles[14].target":"StartMenu.FolderModal > Windows.UI.Xaml.Controls.Grid#Root > Windows.UI.Xaml.Controls.Border","controlStyles[14].styles[0]":"Background:=<WindhawkBlur BlurAmount=\"20\" TintColor=\"#50000000\"/>","controlStyles[14].styles[1]":"Shadow:=","controlStyles[14].styles[2]":"BorderBrush:=<SolidColorBrush Color=\"#FFFFFF\" Opacity=\"0.2\" />","controlStyles[14].styles[3]":"BorderThickness=1,1,1,1",
-"controlStyles[15].target":"StartMenu.CategoryControl > Windows.UI.Xaml.Controls.Grid#RootGrid > Windows.UI.Xaml.Controls.Border","controlStyles[15].styles[0]":"Background:=<WindhawkBlur BlurAmount=\"30\" TintColor=\"#00000000\"/>","controlStyles[15].styles[1]":"BorderThickness=1,1,1,1","controlStyles[15].styles[2]":"BorderBrush:=<SolidColorBrush Color=\"#FFFFFF\" Opacity=\"0.1\" />"}
+"controlStyles[15].target":"StartMenu.CategoryControl > Windows.UI.Xaml.Controls.Grid#RootGrid > Windows.UI.Xaml.Controls.Border","controlStyles[15].styles[0]":"Background:=<WindhawkBlur BlurAmount=\"30\" TintColor=\"#00000000\"/>","controlStyles[15].styles[1]":"BorderThickness=1,1,1,1","controlStyles[15].styles[2]":"BorderBrush:=<SolidColorBrush Color=\"#FFFFFF\" Opacity=\"0.1\" />",
+"controlStyles[16].target":"Windows.UI.Xaml.Controls.Border#StartDropShadow","controlStyles[16].styles[0]":"Visibility=Collapsed"
+}
 ```
 
 ### 3. Windows 11 Taskbar Styler  
