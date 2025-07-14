@@ -232,7 +232,7 @@ No config, use Settings tab.
     * `widget.windows.mica`
     * `browser.theme.native-theme`
     * `browser.tabs.allow_transparent_browser`
-    * `toolkit.legacyUserProfileCustomizations.enabled`
+    * `toolkit.legacyUserProfileCustomizations.stylesheets`
 6.  **Restart Firefox** for the changes to take effect.
 
 ## 🔗 [Wallpaper](https://4kwallpapers.com/black-dark/ios-13-stock-ipados-dark-green-black-background-amoled-ipad-794.html)
