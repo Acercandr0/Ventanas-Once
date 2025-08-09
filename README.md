@@ -5,8 +5,6 @@
 - If your screen has a different resolution (for example, 1920x1080), you'll need to adjust the targets and styles that affect their position to ensure correct functionality and proper display.
 - The Start Menu's styling is **specifically for Windows 11's new design** (Insider program), so it might not work correctly with the older Start Menu layout.
 
-## 📷 Previews
-
 ![Preview 1](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev1.png)
 
 ![Preview 2](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev2.png)
@@ -16,8 +14,6 @@
 ![Preview 4](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev4.png)
 
 ![Preview 5](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev5.png)
-
-## 🦅 Windhawk Mods
 
 ### 1. Translucent Windows
 ```json
