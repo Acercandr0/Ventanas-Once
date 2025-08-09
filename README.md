@@ -70,6 +70,9 @@ No config, use Settings tab.
 ## 🦊 Firefox Theme
 [Latin Accent Firefox Theme](https://github.com/Acercandr0/Latin-Accent)
 
+## Spotify Theme
+[Spicetify](https://github.com/spicetify)
+
 ## 🖼️ Wallpaper
 [here](https://4kwallpapers.com/black-dark/ios-13-stock-ipados-dark-green-black-background-amoled-ipad-794.html)
 
