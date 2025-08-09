@@ -5,23 +5,6 @@
 - If your screen has a different resolution (for example, 1920x1080), you'll need to adjust the targets and styles that affect their position to ensure correct functionality and proper display.
 - The Start Menu's styling is **specifically for Windows 11's new design** (Insider program), so it might not work correctly with the older Start Menu layout.
 
-#### Table of contents
-* [📷 Previews](#previews)
-* [🦅 Windhawk Mods](#windhawk-mods)
-    * [1. Translucent Windows](#1-translucent-windows)
-    * [2. Windows 11 File Explorer Styler](#2-windows-11-file-explorer-styler)
-    * [3. Windows 11 Start Menu Styler](#3-windows-11-start-menu-styler)
-    * [4. Windows 11 Taskbar Styler](#4-windows-11-taskbar-styler)
-    * [5. Windows 11 Notification Center Styler](#5-windows-11-notification-center-styler)
-    * [6. Taskbar Clock Customization](#6-taskbar-clock-customization)
-    * [7. Taskbar Tray Icon Spacing](#7-taskbar-tray-icon-spacing)
-    * [8. Disable grouping on the taskbar](#8-disable-grouping-on-the-taskbar)
-    * [9. Customize Windows notifications placement](#9-customize-windows-notifications-placement)
-    * [10. Dark mode context menus](#10-dark-mode-context-menus)
-    * [11. Taskbar on top for Windows 11](#11-taskbar-on-top-for-windows-11)
-* [Firefox Theme](#firefox-theme)
-* [Wallpaper](#wallpaper)
-
 ## 📷 Previews
 
 ![Preview 1](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev1.png)
@@ -85,10 +68,10 @@ No config, use Settings tab.
 ### 11. Taskbar on top for Windows 11
 No config, use Settings tab.
 
-## Firefox Theme
+## 🦊 Firefox Theme
 [Latin Accent Firefox Theme](https://github.com/Acercandr0/Latin-Accent)
 
-## Wallpaper
+## 🖼️ Wallpaper
 [here](https://4kwallpapers.com/black-dark/ios-13-stock-ipados-dark-green-black-background-amoled-ipad-794.html)
 
 ### That's it. Enjoy! 🍸
