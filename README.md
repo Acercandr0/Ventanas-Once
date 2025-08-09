@@ -64,10 +64,14 @@ No config, use Settings tab.
 ### 11. Taskbar on top for Windows 11
 No config, use Settings tab.
 
+## 🐁 Cursor
+[Minimalistic V3 cursor](https://www.deviantart.com/skyeo84/art/Minimalistic-V3-cursor-909469275).
+
 ## 🦊 Firefox Theme
 [Latin Accent Firefox Theme](https://github.com/Acercandr0/Latin-Accent)
 
 ## 🖼️ Wallpaper
 [here](https://4kwallpapers.com/black-dark/ios-13-stock-ipados-dark-green-black-background-amoled-ipad-794.html)
 
-### That's it. Enjoy! 🍸
+
+# That's it. Enjoy! 🍸
