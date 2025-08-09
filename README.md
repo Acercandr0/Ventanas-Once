@@ -19,8 +19,8 @@
     * [9. Customize Windows notifications placement](#9-customize-windows-notifications-placement)
     * [10. Dark mode context menus](#10-dark-mode-context-menus)
     * [11. Taskbar on top for Windows 11](#11-taskbar-on-top-for-windows-11)
-* [🦊 Firefox Theme](#firefox-theme)
-* [🔗 Wallpaper](#wallpaper)
+* [Firefox Theme](#firefox-theme)
+* [Wallpaper](#wallpaper)
 
 ## 📷 Previews
 
@@ -85,10 +85,10 @@ No config, use Settings tab.
 ### 11. Taskbar on top for Windows 11
 No config, use Settings tab.
 
-## 🦊 Firefox Theme
+## Firefox Theme
 [Latin Accent Firefox Theme](https://github.com/Acercandr0/Latin-Accent)
 
-## 🔗 Wallpaper
+## Wallpaper
 [here](https://4kwallpapers.com/black-dark/ios-13-stock-ipados-dark-green-black-background-amoled-ipad-794.html)
 
 ### That's it. Enjoy! 🍸
