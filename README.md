@@ -1,14 +1,7 @@
 # Ventanas Once 🦅
 
-![Preview 1](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev1.png)
-
-![Preview 2](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev2.png)
-
-![Preview 3](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev3.png)
-
-![Preview 4](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev4.png)
-
-![Preview 5](https://github.com/Acercandr0/Ventanas-Once/blob/main/Previews/prev5.png)
+THIS REPOSITORY IS OUTDATED.
+IT WILL BE BACK VERY SOON.
 
 ### 1. Translucent Windows
 ```json
