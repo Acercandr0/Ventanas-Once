@@ -1,7 +1,12 @@
 # Ventanas Once 🦅
 Windhawk config for Windows 11 25H2
 
-
+![](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/prev1.png)
+![](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/prev2.png)
+![](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/prev3.png)
+![](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/prev4.png)
+![](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/prev5.png)
+![](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/prev6.png)
 
 ### 1. Translucent Windows
 ```json
