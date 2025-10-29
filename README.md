@@ -35,10 +35,10 @@ Windhawk config for Windows 11 25H2
 ```
 ⚠️ Change margins to adjust it for your screen:
 
-**Grid#MediaTransportControlsRegion**
+**Grid#MediaTransportControlsRegion**  
 Margin=0,0,0,-975
 
-**Grid#ControlCenterRegion**
+**Grid#ControlCenterRegion**  
 Margin=0,0,0,455
 
 ### 6. Taskbar Clock Customization  
