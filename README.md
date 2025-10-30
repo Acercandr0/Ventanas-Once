@@ -65,8 +65,9 @@ No config, set on top on Settings tab.
 ### 11. Taskbar on top for Windows 11
 No config, use Settings tab.
 
-I highly recommend using this theme to improve the overall Windows UI.
 ## Resource Redirect Mod with Rectify 11
+
+I highly recommend using this theme to improve the overall Windows UI.
 [ramensoftware guide](https://github.com/ramensoftware/r11-resource-redirect/tree/main)
 
 ## 🐁 Cursor
