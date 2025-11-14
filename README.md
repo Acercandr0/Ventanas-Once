@@ -9,6 +9,7 @@ Windhawk config for Windows 11 25H2
 ![](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/prev6.png)
 ![](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/prev7.png)
 ![](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/prev8.png)
+![](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/prev9.png)
 
 
 ### 1. Translucent Windows
