@@ -82,7 +82,7 @@ I highly recommend using this theme to improve the overall Windows UI.
 Colorful by Sanoojes (blue-dark color scheme)
 
 ## 🖼️ Wallpaper
-[Here](https://unsplash.com/photos/water-droplets-on-glass-panel-hfRoW7KE-8M)
+[Here](https://www.pexels.com/photo/moss-growing-on-tree-bark-14698881/)
 
 
 # That's it. Enjoy! 🍸
