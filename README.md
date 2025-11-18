@@ -1,18 +1,19 @@
-# Ventanas Once 🦅
-Windhawk config for Windows 11 25H2
+# Ventanas Once
+Windhawk Styles for Windows 11 25H2
 
 ![Desktop](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/desktop.png)
 ![File Explorer](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/explorer.png)
-![Firefox](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/firefox.png)
-![Phone Link](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/phonelink.png)
+![Lock Screen](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/lockscreen.png)
 ![Start Menu](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/startmenu.png)
-![Taskbar](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/taskbar.png)
+![Phone Link](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/phonelink.png)
+![Firefox](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/firefox.png)
+![Spicetify](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/spicetify.png)
 
 ### Additional UI Details
 
-| Chevron Menu | OSD Volume | Input Panel | Toast Notifications |
-|:------------:|:----------:|:-----------:|:-------------------:|
-| ![Chevron](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/chevron.png) | ![OSD](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/osd.png) | ![Input](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/input.png) | ![Toast](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/toast.png) |
+| Chevron Menu | OSD Volume | Taskbar | Input Panel | Toast Notification |
+|:------------:|:----------:|:-------:|:-----------:|:------------------:|
+| ![Chevron](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/chevron.png) | ![OSD](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/osd.png) | ![Taskbar](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/taskbar.png) | ![Input](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/input.png) | ![Toast](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/toast.png) |
 
 
 ### 1. Translucent Windows
