@@ -11,7 +11,7 @@ Windhawk Styles for Windows 11 25H2
 
 ### Additional UI Details
 
-| Chevron Menu | OSD Volume | Taskbar | Input Panel | Toast Notification |
+| Chevron Menu | OSD | Taskbar detail | Input & Clipboard Panel | Toast Notification |
 |:------------:|:----------:|:-------:|:-----------:|:------------------:|
 | ![Chevron](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/chevron.png) | ![OSD](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/osd.png) | ![Taskbar](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/taskbar.png) | ![Input](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/input.png) | ![Toast](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/toast.png) |
 
