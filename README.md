@@ -1,5 +1,5 @@
 # Ventanas Once
-Windhawk Styles for Windows 11 25H2
+Windhawk styles and some tweaks for Windows 11 25H2 customization.
 
 ![Desktop](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/desktop.png)
 ![File Explorer](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/explorer.png)
