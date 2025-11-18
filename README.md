@@ -6,6 +6,7 @@ Windhawk styles and some tweaks for Windows 11 25H2 customization.
 ![Lock Screen](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/lockscreen.png)
 ![Start Menu](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/startmenu.png)
 ![Phone Link](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/phonelink.png)
+![WIN+TAB](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/wintab.png)
 ![Firefox](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/firefox.png)
 ![Spicetify](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/spicetify.png)
 
