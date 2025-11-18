@@ -95,4 +95,4 @@ Colorful by Sanoojes (blue-dark color scheme)
 [Here](https://www.pexels.com/photo/moss-growing-on-tree-bark-14698881/)
 
 
-# That's it. Enjoy! 🐸
+# That's it. Enjoy!
