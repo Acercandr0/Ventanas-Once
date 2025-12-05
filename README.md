@@ -10,9 +10,8 @@ Windhawk styles and some tweaks for Windows 11 25H2 customization.
 ![7](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/firefox.png)
 
 ### Additional UI Details
-
-| Chevron Menu | OSD | Taskbar detail | Input & Clipboard Panel | Toast Notification |
-|:------------:|:----------:|:-------:|:-----------:|:------------------:|
+| Chevron | OSD | Taskbar | Input |
+| :---: | :---: | :---: | :---: |
 | ![8](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/chevron.png) | ![9](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/osd.png) | ![10](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/taskbar.png) | ![11](https://raw.githubusercontent.com/Acercandr0/Ventanas-Once/main/Previews/input.png) |
 
 ### 1. Translucent Windows
