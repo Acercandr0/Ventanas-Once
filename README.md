@@ -85,9 +85,6 @@ No config, use Settings tab.
 ### 🦊 Firefox Theme
 [Latin Accent Firefox Theme](https://github.com/Acercandr0/Latin-Accent)
 
-### 🎵 Spicetify Theme
-[Colorful by Sanoojes](https://github.com/sanoojes/spicetify-colorful) (blue-dark color scheme)
-
 ### 🖼️ Wallpaper
 [Lockscreen](https://www.pexels.com/photo/moss-growing-on-tree-bark-14698881/)
 [Desktop](https://unsplash.com/photos/a-mountain-covered-in-fog-with-trees-in-the-foreground-Ddxb6fq6cIY)
